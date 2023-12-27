@@ -34,3 +34,15 @@ Most houses with a decent outer view tend to have conditions ranging from averag
 
 ![GitHub Logo](/Images/4.png)
 
+Most houses have between 2 to 5 bedrooms and more than 1 bathroom. This trend suggests they're suitable for medium to large families, providing enough space and necessary amenities.
+
+**5. Filters**
+
+![GitHub Logo](/Images/5.png)
+
+The dashboard offers various filters to refine results based on specific needs. It includes a calendar for selecting dates and allows sorting houses by their built year, living space (in square feet), and total space (in square feet). 
+
+
+**To analyse further using the interactive Dashboard Report, please use the public link to the <a href="https://public.tableau.com/app/profile/hasan.zamil.ahmed3039/viz/RealEstateDataAnalysis_17027747838030/HouseSalesDashboard?publish=yes" target="_blank">Dashboard</a>.** 
+
+
