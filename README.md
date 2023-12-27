@@ -16,7 +16,7 @@ In this project we will explore the real estate landscape of King County, Washin
 
 <br>
 
-<img src="/Images/1.png" alt="Image" width="200" height="150">
+<img src="/Images/1.png" alt="Image" width="800" height="650">
 
 
 In July, house prices varied widely, hitting a peak of $766,667 on July 06 and dropping to a low of $286,308 on July 27. This shows considerable ups and downs in prices throughout the month. 
